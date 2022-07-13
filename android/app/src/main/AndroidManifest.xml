@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.firebase_test">
+    package="com.example.digital_marketplace">
    <application
-        android:label="firebase_test"
+        android:label="digital_marketplace"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

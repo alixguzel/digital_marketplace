@@ -2,7 +2,7 @@
 
 import 'package:firebase_analytics/firebase_analytics.dart';
 import 'package:firebase_database/firebase_database.dart';
-import 'package:firebase_test/games.dart';
+import 'package:digital_marketplace/games.dart';
 
 import '../responsive_login/login_desktop_body.dart';
 import '../responsive_login/login_mobile_body.dart';

@@ -1,4 +1,4 @@
-import 'package:firebase_test/navigator_pages/login_page.dart';
+import 'package:digital_marketplace/navigator_pages/login_page.dart';
 import 'package:flutter/material.dart';
 
 class ItemCard extends StatelessWidget {

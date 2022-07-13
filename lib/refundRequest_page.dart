@@ -2,9 +2,9 @@ import 'dart:math';
 
 import 'package:animated_splash_screen/animated_splash_screen.dart';
 import 'package:firebase_database/firebase_database.dart';
-import 'package:firebase_test/games.dart';
-import 'package:firebase_test/history_page.dart';
-import 'package:firebase_test/main.dart';
+import 'package:digital_marketplace/games.dart';
+import 'package:digital_marketplace/history_page.dart';
+import 'package:digital_marketplace/main.dart';
 import 'package:flutter/material.dart';
 import 'package:lottie/lottie.dart';
 

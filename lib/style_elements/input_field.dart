@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:firebase_test/style_elements/text_field.dart';
+import 'package:digital_marketplace/style_elements/text_field.dart';
 
 class RoundedInputField extends StatelessWidget {
   final String hintText;

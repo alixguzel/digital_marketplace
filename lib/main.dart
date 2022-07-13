@@ -2,8 +2,8 @@ import 'dart:async';
 
 import 'package:animated_splash_screen/animated_splash_screen.dart';
 import 'package:firebase_database/firebase_database.dart';
-import 'package:firebase_test/games.dart';
-import 'package:firebase_test/navigator_pages/navigator.dart';
+import 'package:digital_marketplace/games.dart';
+import 'package:digital_marketplace/navigator_pages/navigator.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;

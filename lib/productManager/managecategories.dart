@@ -1,7 +1,7 @@
 import 'package:firebase_database/firebase_database.dart';
-import 'package:firebase_test/account_page.dart';
-import 'package:firebase_test/main.dart';
-import 'package:firebase_test/navigator_pages/navigator.dart';
+import 'package:digital_marketplace/account_page.dart';
+import 'package:digital_marketplace/main.dart';
+import 'package:digital_marketplace/navigator_pages/navigator.dart';
 import 'package:flutter/material.dart';
 
 import '../style_elements/input_field.dart';

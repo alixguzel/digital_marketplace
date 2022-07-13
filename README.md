@@ -1,4 +1,4 @@
-# firebase_test
+# digital_marketplace
 
 A new Flutter project.
 

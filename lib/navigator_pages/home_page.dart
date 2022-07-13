@@ -1,7 +1,7 @@
-import 'package:firebase_test/games.dart';
-import 'package:firebase_test/main.dart';
-import 'package:firebase_test/responsive_homepage/homepage_mobileBody.dart';
-import 'package:firebase_test/responsive_homepage/homepage_desktopBody.dart';
+import 'package:digital_marketplace/games.dart';
+import 'package:digital_marketplace/main.dart';
+import 'package:digital_marketplace/responsive_homepage/homepage_mobileBody.dart';
+import 'package:digital_marketplace/responsive_homepage/homepage_desktopBody.dart';
 import '../style_elements/responsive_layout.dart';
 import 'package:flutter/material.dart';
 

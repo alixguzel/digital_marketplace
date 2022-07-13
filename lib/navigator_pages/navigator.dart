@@ -1,9 +1,9 @@
 import 'package:firebase_analytics/firebase_analytics.dart';
 import 'package:firebase_database/firebase_database.dart';
-import 'package:firebase_test/cart.dart';
-import 'package:firebase_test/games.dart';
-import 'package:firebase_test/navigator_pages/login_page.dart';
-import 'package:firebase_test/wishlist.dart';
+import 'package:digital_marketplace/cart.dart';
+import 'package:digital_marketplace/games.dart';
+import 'package:digital_marketplace/navigator_pages/login_page.dart';
+import 'package:digital_marketplace/wishlist.dart';
 import 'package:flutter/material.dart';
 //import 'package:g2b_demo/screens/login_page.dart';
 import 'home_page.dart';

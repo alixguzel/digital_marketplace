@@ -3,7 +3,7 @@ import 'dart:math';
 import 'package:animated_splash_screen/animated_splash_screen.dart';
 import 'package:firebase_analytics/firebase_analytics.dart';
 import 'package:firebase_database/firebase_database.dart';
-import 'package:firebase_test/navigator_pages/navigator.dart';
+import 'package:digital_marketplace/navigator_pages/navigator.dart';
 import 'package:lottie/lottie.dart';
 import 'checkout.dart';
 import 'navigator_pages/login_page.dart';

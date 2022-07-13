@@ -1,13 +1,13 @@
 import 'package:firebase_database/firebase_database.dart';
-import 'package:firebase_test/cart.dart';
-import 'package:firebase_test/comment_screen.dart';
-import 'package:firebase_test/main.dart';
-import 'package:firebase_test/navigator_pages/navigator.dart';
-import 'package:firebase_test/responsive_login/login_mobile_body.dart';
+import 'package:digital_marketplace/cart.dart';
+import 'package:digital_marketplace/comment_screen.dart';
+import 'package:digital_marketplace/main.dart';
+import 'package:digital_marketplace/navigator_pages/navigator.dart';
+import 'package:digital_marketplace/responsive_login/login_mobile_body.dart';
 import 'package:flutter/material.dart';
 import '../games.dart';
 import '../navigator_pages/login_page.dart';
-import 'package:firebase_test/games.dart';
+import 'package:digital_marketplace/games.dart';
 import '../navigator_pages/login_page.dart';
 import '../responsive_login/login_mobile_body.dart';
 

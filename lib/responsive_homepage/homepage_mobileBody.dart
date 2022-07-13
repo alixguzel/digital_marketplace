@@ -1,10 +1,10 @@
 import 'package:firebase_analytics/firebase_analytics.dart';
 import 'package:firebase_database/firebase_database.dart';
-import 'package:firebase_test/navigator_pages/login_page.dart';
-import 'package:firebase_test/main.dart';
+import 'package:digital_marketplace/navigator_pages/login_page.dart';
+import 'package:digital_marketplace/main.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:firebase_test/style_elements/dimensions.dart';
-import 'package:firebase_test/pd_screen.dart';
+import 'package:digital_marketplace/style_elements/dimensions.dart';
+import 'package:digital_marketplace/pd_screen.dart';
 import 'package:flutter/material.dart';
 import '../games.dart';
 import '../navigator_pages/category_page.dart';

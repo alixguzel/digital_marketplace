@@ -1,8 +1,8 @@
-import 'package:firebase_test/navigator_pages/login_page.dart';
+import 'package:digital_marketplace/navigator_pages/login_page.dart';
 import 'dart:math';
 import 'package:flutter/material.dart';
-import 'package:firebase_test/style_elements/input_field.dart';
-import 'package:firebase_test/style_elements/text_field.dart';
+import 'package:digital_marketplace/style_elements/input_field.dart';
+import 'package:digital_marketplace/style_elements/text_field.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_database/firebase_database.dart';

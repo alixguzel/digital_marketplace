@@ -1,4 +1,4 @@
-import 'package:firebase_test/productManager/managecategories.dart';
+import 'package:digital_marketplace/productManager/managecategories.dart';
 import 'package:flutter/material.dart';
 
 class ProductManager extends StatelessWidget {

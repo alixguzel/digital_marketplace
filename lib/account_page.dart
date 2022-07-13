@@ -1,6 +1,6 @@
-import 'package:firebase_test/dummycomments.dart';
-import 'package:firebase_test/history_page.dart';
-import 'package:firebase_test/productManager/productManager_page.dart';
+import 'package:digital_marketplace/dummycomments.dart';
+import 'package:digital_marketplace/history_page.dart';
+import 'package:digital_marketplace/productManager/productManager_page.dart';
 import 'package:flutter/material.dart';
 import '/account_widget.dart';
 import 'style_elements/text_field.dart';
